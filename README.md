@@ -2,9 +2,7 @@
 
 Projeto de análise de dados, unindo SQL e Power BI, para explorar padrões de vendas em um dataset de vendas de veículos em miniatura (Sample Sales Data, Kaggle).
 
-![Demonstração do Dashboard](Dashboard%20power%20bi.gif)
-
-*Dashboard interativo construído em Power BI — modelo estrela, medidas DAX e Time Intelligence.*
+![Preview do Dashboard](Projeto%201%20-%20Power%20BI.png)
 
 ---
 
@@ -33,6 +31,10 @@ A partir da tabela única original, construí um **modelo estrela** completo:
 - 9 medidas DAX, incluindo Time Intelligence (`SAMEPERIODLASTYEAR`) para comparações ano a ano
 
 O dashboard final consolida tudo em uma única página, com KPIs, tendência temporal, e rankings de produto, cliente e território.
+
+**Veja a interatividade em ação:**
+
+![Demonstração do Dashboard](Dashboard%20power%20bi.gif)
 
 ## 📊 Principais Insights
 
