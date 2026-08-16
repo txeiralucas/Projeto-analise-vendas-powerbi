@@ -68,5 +68,3 @@ Também identifiquei e documentei, de forma transparente no próprio dashboard, 
 ```
 
 ---
-
-📌 Projeto desenvolvido como parte da transição de carreira para Análise de Dados / Business Intelligence.
